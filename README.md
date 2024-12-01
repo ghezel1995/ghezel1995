@@ -18,6 +18,14 @@ While I’m focused on front-end development right now, I’m also familiar with
    </a>
 </p>
 
+---
+
+## 🛠️ Technologies & Skills
+
+---
+<p align="center">
+   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width=50 />
+</p>
 <!--
 **ghezel1995/ghezel1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
