@@ -1,6 +1,6 @@
-# 👋🏻😊 Hi there, I'm Mahsa Ghezel
+<h1 align="center">👋🏻😊 Hi there, I'm Mahsa Ghezel</h1>
 
-<img src="/assets/me.jpg" style="margin: 10px auto; width: 800px;" />
+<img src="/assets/me.jpg" width=600 align="center" />
 <!--
 **ghezel1995/ghezel1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
