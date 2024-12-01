@@ -8,12 +8,9 @@ While I’m focused on front-end development right now, I’m also familiar with
 
 <a href="https://github.com/mahsaghezel" alt="mahsa ghezel's github">
 <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
-</a>
-
-<a href="[https://www.linkedin.com/in/mahsaghezel/](https://www.linkedin.com/in/mahsaghezel/)" alt="mahsa ghezel's linkedin">
+</a> <a href="[https://www.linkedin.com/in/mahsaghezel/](https://www.linkedin.com/in/mahsaghezel/)" alt="mahsa ghezel's linkedin">
    <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https:///www.linkedin.com/in/mahsaghezel/" />
- </a>
- <a>
+ </a> <a>
    <img alt="mahsa ghezel's portfolio" src="https://img.shields.io/badge/%20-Portfolio-%23f76b8a?logoColor=white&color=f76b8a&link=https://mahsaghezel1995.netlify.app/">
  </a>
 
