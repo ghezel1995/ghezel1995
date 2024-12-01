@@ -39,7 +39,6 @@ While I’m focused on front-end development right now, I’m also familiar with
 <img src="https://miro.medium.com/v2/resize:fit:900/1*OrjCKmou1jT4It5so5gvOA.jpeg" width=60 />
 <img src="https://avatars.githubusercontent.com/u/59704711?s=200&v=4" width=50 />
 <img src="https://www.gitkraken.com/wp-content/uploads/2022/02/CLI-stands-forHero.png" width=70 />
-<img src="https://sympli-blog-content.s3.amazonaws.com/dev/2021/03/cover-responsive.png" width=70 />
 </p>
 <!--
 **ghezel1995/ghezel1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
