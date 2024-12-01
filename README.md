@@ -11,7 +11,7 @@ While I’m focused on front-end development right now, I’m also familiar with
 </a> <a href="[https://www.linkedin.com/in/mahsaghezel/](https://www.linkedin.com/in/mahsaghezel/)" alt="mahsa ghezel's linkedin">
    <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https:///www.linkedin.com/in/mahsaghezel/" />
  </a> <a>
-   <img alt="mahsa ghezel's portfolio" src="https://img.shields.io/badge/%20-Portfolio-%23f76b8a?logoColor=white&color=f76b8a&link=https://mahsaghezel1995.netlify.app/">
+   <img alt="mahsa ghezel's portfolio" src="https://img.shields.io/badge/%20-Portfolio-%23f76b8a?logoColor=white&color=f76b8a&style=for-the-badge&link=https://mahsaghezel1995.netlify.app/">
  </a>
 
 <!--
