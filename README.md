@@ -7,7 +7,7 @@ I’m a front-end developer passionate about creating beautiful and interactive 
 While I’m focused on front-end development right now, I’m also familiar with the MERN stack (MongoDB, Express.js, React.js, Node.js), Vue.js, and Docker. I'm always learning new technologies to expand my skill set. I enjoy collaborating with other developers and using Git and GitHub to manage and contribute to projects efficiently.
 
 <p align="center">
-   <a href="[https://www.linkedin.com/in/mahsaghezel/](https://www.linkedin.com/in/mahsaghezel/)" alt="mahsa ghezel's linkedin">
+   <a href="https://www.linkedin.com/in/mahsaghezel" alt="mahsa ghezel's linkedin">
       <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&color=00bbf0&style=for-the-badge&link=https://www.linkedin.com/in/mahsaghezel/" />
    </a>
    <a href="https://github.com/ghezel1995" alt="mahsa ghezel's github">
