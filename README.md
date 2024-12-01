@@ -8,7 +8,7 @@ While I’m focused on front-end development right now, I’m also familiar with
 </p>
 <a href="https://mahsaghezel1995.netlify.app" style="text-decoration: none; border: 1px solid #f76b8a; border-radios: 4px;">
     <button style="background-color: #008CBA; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
-        <img src="https://cdn-icons-png.flaticon.com/128/1927/1927746.png" />My portfolio
+        <img src="https://cdn-icons-png.flaticon.com/128/1927/1927746.png" width=20 />My portfolio
     </button>
 </a>
 <!--
