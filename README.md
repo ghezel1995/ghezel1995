@@ -40,17 +40,33 @@ While I’m focused on front-end development right now, I’m also familiar with
 <img src="https://avatars.githubusercontent.com/u/59704711?s=200&v=4" width=50 />
 <img src="https://www.gitkraken.com/wp-content/uploads/2022/02/CLI-stands-forHero.png" width=70 />
 </p>
-<!--
-**ghezel1995/ghezel1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Open Source Projects
+
+---
+
+**Take a look at the open-source projects I've created so far:**
+
+- 🏪 [https://github.com/ghezel1995/mern-shop](https://github.com/ghezel1995/mern-shop) This is a full-stack e-commerce app built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It includes features like user authentication, product management, shopping cart, order management, and an admin dashboard. The project is also containerized using Docker.
+
+- 🎮 [https://github.com/ghezel1995/game-hub](https://github.com/ghezel1995/game-hub) GameHub is a responsive web app built with React, TypeScript, and Chakra UI. It fetches video game details, including genres, via the RAWG API. Deployed on Vercel, it features a live demo for easy access.
+
+- 🏢 [https://github.com/ghezel1995/find-job](https://github.com/ghezel1995/find-job) A job listing web application built with Vue.js and Vite. This project demonstrates the use of modern frontend technologies like Vue 3, Vue Router, and TailwindCSS for styling, along with backend API simulation using JSON Server.
+
+- 🪄 [https://github.com/ghezel1995/ghezel1995.github.io](https://github.com/ghezel1995/ghezel1995.github.io) Welcome to my personal portfolio website! This site is built with React.js and styled using Bootstrap, showcasing my projects, skills, and experiences as a developer. Explore my work, learn about my accomplishments, and check out my ongoing projects.
+
+- 📱 [https://github.com/ghezel1995/video-conference-app](https://github.com/ghezel1995/video-conference-app) This web-based video calling app uses React for the front-end and Socket.IO with Express.js for the back-end. It enables peer-to-peer video calls via WebRTC and the simple-peer library. Developed during my internship at the Iran Telecommunication Research Center (ITRC).
+
+- 🛒 [https://github.com/ghezel1995/ecommerce](https://github.com/ghezel1995/ecommerce) This React.js and Bootstrap app is entirely client-side, offering features like product browsing, real-time cart updates, secure authentication, and a seamless checkout experience.
+
+- 👩‍💻 [https://github.com/ghezel1995/admin-dashboard](https://github.com/ghezel1995/admin-dashboard) Built with Next.js and Tailwind CSS, it offers responsive design, interactive UI, dynamic theming, advanced forms, and data visualization with Recharts for efficient admin management.
+
+- 🌄 [https://github.com/ghezel1995/reactweatherfinalproject](https://github.com/ghezel1995/reactweatherfinalproject) Built with React.js, it features real-time weather updates, city-based search, weather animations, responsive Bootstrap design, and smooth loading indicators for a seamless user experience.
+
+- 🎈 [https://github.com/ghezel1995/week-four-portfolio](https://github.com/ghezel1995/week-four-portfolio) This is a simple portfolio website built using HTML, CSS, and Bootstrap
+
+- 🌨️ [https://github.com/ghezel1995/weather](https://github.com/ghezel1995/weather)This project is a simple yet effective weather application built with vanilla JavaScript. It allows users to check the current weather conditions of any city by fetching data from the SheCodes Weather API. The app utilizes Bootstrap for styling to ensure a responsive and user-friendly interface.
+
+
