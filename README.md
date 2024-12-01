@@ -6,16 +6,11 @@
 
 While I’m focused on front-end development right now, I’m also familiar with the MERN stack (MongoDB, Express.js, React.js, Node.js), Vue.js, and Docker. I'm always learning new technologies to expand my skill set. I enjoy collaborating with other developers and using Git and GitHub to manage and contribute to projects efficiently.
 </p>
-<a href="https://your-link.com" style="text-decoration: none;">
+<a href="https://mahsaghezel1995.netlify.app" style="text-decoration: none;">
     <button style="background-color: #008CBA; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
-        Button Text
+        <img src="https://cdn-icons-png.flaticon.com/128/1927/1927746.png" />My portfolio
     </button>
 </a>
-<p align="center">
-  <a href="https://mahsaghezel1995.netlify.app">
-    <img src="https://cdn-icons-png.flaticon.com/128/1927/1927746.png" /> My portfolio
-  </a>
-</p>
 <!--
 **ghezel1995/ghezel1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
