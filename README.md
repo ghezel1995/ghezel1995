@@ -10,7 +10,7 @@ While I’m focused on front-end development right now, I’m also familiar with
    <a href="[https://www.linkedin.com/in/mahsaghezel/](https://www.linkedin.com/in/mahsaghezel/)" alt="mahsa ghezel's linkedin">
       <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&color=00bbf0&style=for-the-badge&link=https://www.linkedin.com/in/mahsaghezel/" />
    </a>
-   <a href="https://github.com/mahsaghezel" alt="mahsa ghezel's github">
+   <a href="https://github.com/ghezel1995" alt="mahsa ghezel's github">
       <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&color=352f44&style=for-the-badge&link=https://github.com/ghezel1995" />
    </a>
    <a>
