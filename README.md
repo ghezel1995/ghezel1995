@@ -1,5 +1,6 @@
 # 👋🏻😊 Hi there, I'm Mahsa Ghezel
 
+![me](/assets/me.jpg)
 <!--
 **ghezel1995/ghezel1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
