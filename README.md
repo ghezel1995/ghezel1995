@@ -14,7 +14,7 @@ While I’m focused on front-end development right now, I’m also familiar with
    <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mehdihadeli" />
  </a>
  <a href="https://mahsaghezel1995.netlify.app" alt="mahsa ghezel's blog">
-   <img src="tps://img.shields.io/badge/%20-Portfolio-%23FF5722?logo=blogger&logoColor=f76b8a&style=for-the-badge" />
+   <img src="tps://img.shields.io/badge/%20-Portfolio-%23FF5722?logo=blogger&logoColor=pink&style=for-the-badge" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=ghezel1995&color=f76b8a&style=for-the-badge" />
