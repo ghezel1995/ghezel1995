@@ -22,7 +22,6 @@ While I’m focused on front-end development right now, I’m also familiar with
 
 ## 🛠️ Technologies & Skills
 
----
 <p align="center">
    <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width=50 height=50 />
    <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width=50 height=50 />
@@ -44,8 +43,6 @@ While I’m focused on front-end development right now, I’m also familiar with
 ---
 
 ## 💻 Open Source Projects
-
----
 
 **Take a look at the open-source projects I've created so far:**
 
