@@ -14,7 +14,7 @@ While I’m focused on front-end development right now, I’m also familiar with
    <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https:///www.linkedin.com/in/mahsaghezel/" />
  </a>
  <a href="https://mahsaghezel1995.netlify.app" alt="mahsa ghezel's blog">
-   <img src="tps://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge" />
+   <img alt="mahsa ghezel's blog" src="https://img.shields.io/badge/%23f76b8a?logoColor=white&color=f76b8a&link=https%3A%2F%2Fmahsaghezel1995.netlify.app">
  </a>
 <!--
 **ghezel1995/ghezel1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
