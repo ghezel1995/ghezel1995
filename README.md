@@ -31,8 +31,8 @@ While I’m focused on front-end development right now, I’m also familiar with
 <img src="https://images.prismic.io/turing/652ec31afbd9a45bcec81965_Top_Features_in_Next_js_13_7f9a32190f.webp?auto=format,compress" width=50 />
 <img src="https://avatars.githubusercontent.com/u/13142323?v=4" width=50 />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz4NbsiYyG4QdDkxTzbMN5L8Tbd4j1fjxqQ&s" width=80 />
-<img src="https://www.gtech.com.tr/wp-content/uploads/2020/09/mongodb-nedir-1.png" width=90 />
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" width=90 />
+<img src="https://www.gtech.com.tr/wp-content/uploads/2020/09/mongodb-nedir-1.png" width=70 />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" width=70 />
 <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" width=50 />
 <img src="https://blog.novatrend.ch/wp-content/uploads/2017/06/00-nodejs-new-pantone-black.png" width=60 />
 <img src="https://blog.codewithdan.com/wp-content/uploads/2023/06/Docker-Logo.png" width=70 />
