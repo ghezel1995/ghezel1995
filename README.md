@@ -6,15 +6,15 @@
 
 While I’m focused on front-end development right now, I’m also familiar with the MERN stack (MongoDB, Express.js, React.js, Node.js), Vue.js, and Docker. I'm always learning new technologies to expand my skill set. I enjoy collaborating with other developers and using Git and GitHub to manage and contribute to projects efficiently.
 </p>
-
+[
 <p>
-  <a href="https://mahsaghezel1995.netlify.app/" style="display: flex; justify-content: center; align-items: center; padding: 10px 20px; margin-right: 10px; background-color: #f76b8a; color: white; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
+  <button href="https://mahsaghezel1995.netlify.app/" style="display: flex; justify-content: center; align-items: center; padding: 10px 20px; margin-right: 10px; background-color: #f76b8a; color: white; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
     <img src="https://cdn4.iconfinder.com/data/icons/leto-most-searched-mix-8/64/__wifi_connection_network-512.png" width=20 /> My Portfolio
-  </a><a href="https://github.com/mahsaghezel" style="display: flex; justify-content: center; align-items: center; padding: 10px 20px; margin-right: 10px; background-color: #352f44; color: white; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
+  </button><button href="https://github.com/mahsaghezel" style="display: flex; justify-content: center; align-items: center; padding: 10px 20px; margin-right: 10px; background-color: #352f44; color: white; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
     <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_gray-128.png" width=20 /> GitHub
-  </a><a href="https://www.linkedin.com/in/mahsaghezel/" style="display: flex; justify-content: center; align-items: center; padding: 10px 20px; margin-right: 10px; background-color: #00bbf0; color: white; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
+  </button><button href="https://www.linkedin.com/in/mahsaghezel/" style="display: flex; justify-content: center; align-items: center; padding: 10px 20px; margin-right: 10px; background-color: #00bbf0; color: white; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
     <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_gray-512.png" width=20 /> LinkedIn
-  </a>
+  </button>
 </p>
 <!--
 **ghezel1995/ghezel1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
