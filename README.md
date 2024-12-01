@@ -1,4 +1,5 @@
 <h1 align="center">👋🏻😊 Hi there, I'm Mahsa Ghezel</h1>
+
 ![me](/assets/me.jpg)
 
 <p align-"center">I’m a front-end developer passionate about creating beautiful and interactive websites. I’m skilled in JavaScript, React.js, TypeScript, and HTML5/CSS3, and I love using tools like React-Redux, Next.js, and Tailwind CSS to build responsive, user-friendly applications.
