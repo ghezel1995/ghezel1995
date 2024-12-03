@@ -16,8 +16,6 @@ While I’m focused on front-end development right now, I’m also familiar with
    </a>
 </p>
 
-![me](/assets/me.jpg)
-
 ---
 
 ## 🛠️ Technologies & Skills
