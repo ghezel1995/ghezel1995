@@ -1,7 +1,5 @@
 <h1 align="center">👋🏻😊 Hi there, I'm Mahsa Ghezel</h1>
 
-![me](/assets/me.jpg)
-
 I’m a front-end developer passionate about creating beautiful and interactive websites. I’m skilled in JavaScript, React.js, TypeScript, and HTML5/CSS3, and I love using tools like React-Redux, Next.js, and Tailwind CSS to build responsive, user-friendly applications.
 
 While I’m focused on front-end development right now, I’m also familiar with the MERN stack (MongoDB, Express.js, React.js, Node.js), Vue.js, and Docker. I'm always learning new technologies to expand my skill set. I enjoy collaborating with other developers and using Git and GitHub to manage and contribute to projects efficiently.
@@ -17,6 +15,8 @@ While I’m focused on front-end development right now, I’m also familiar with
       <img alt="mahsa ghezel's portfolio" src="https://img.shields.io/badge/%20-Portfolio-%23f76b8a?logo=blogger&logoColor=white&color=f76b8a&style=for-the-badge&link=https://mahsaghezel1995.netlify.app/">
    </a>
 </p>
+
+![me](/assets/me.jpg)
 
 ---
 
